@@ -8,8 +8,7 @@
       "updatedAt": "2023-06-21T17:40:14.280Z",
       "__v": 0,
       "category": "swimming",
-      "bestSeller": true,
-      "description": "Nuestro equipo de triatletas apasionados(as) ha creado este trifunción, equipamiento icónico e imprescindible, para tus primeros triatlones de corta distancia. Con este trifunción... ¡nada, pedalea y corre! Esta segunda piel, ideada por triatletas, se adapta a los movimientos del cuerpo durante las 3 disciplinas del triatlón de corta distancia."
+      "bestSeller": true
     },
     {
       "_id": "64899afdf26833d20c74a87d",
@@ -19,9 +18,7 @@
       "createdAt": "2023-06-14T10:48:29.175Z",
       "updatedAt": "2023-06-22T05:43:59.175Z",
       "__v": 0,
-      "category": "swimming",
-      "description": "Nuestro equipo de apasionados por el triatlón ha concebido este traje de neopreno para mujeres que se inician en la natación, en triatlones de corta distancia. Traje de triatlón 100% neopreno: ayuda a la horizontalidad en el agua, gran libertad de movimientos en las articulaciones, resistencia a las rozaduras y corte adaptado para quitárselo fácilmente."
-    },
+      "category": "swimming" },
     {
       "_id": "64899afdf26833d20c74a87e",
       "name": "ZAPATILLAS CICLISMO TRIATLÓN NEGRO",
@@ -30,8 +27,7 @@
       "createdAt": "2023-06-14T10:48:29.175Z",
       "updatedAt": "2023-06-22T05:42:29.666Z",
       "__v": 0,
-      "category": "cycling",
-      "description": "Nuestro equipo de triatletas apasionados ha diseñado estas zapatillas de triatlón para facilitar las transiciones y también para pedalear cómodamente descalzo. No pierdas tiempo en las transiciones, estas zapatillas de ciclismo para el triatlón son fáciles de calzar y descalzar para que pedalees cómodamente sin calcetines."
+      "category": "cycling"
     },
     {
       "_id": "64899afdf26833d20c74a87f",
@@ -41,9 +37,8 @@
       "createdAt": "2023-06-14T10:48:29.175Z",
       "updatedAt": "2023-06-22T05:41:39.586Z",
       "__v": 0,
-      "category": "swimming",
-      "description": "Nuestro equipo de diseño ha colaborado con los equipos de Zone 3 para desarrollar este modelo de neopreno de hombre para la práctica del triatlón. Tan asequible como eficaz, el modelo Vista te da las armas para afrontar tus triatlones con total tranquilidad."
-    },
+      "category": "swimming"
+      },
     {
       "_id": "64899afdf26833d20c74a880",
       "name": "GAFAS NATACIÓN SPEEDO FUTURA BIOFUSE GRIS ROJO",
@@ -54,9 +49,7 @@
       "__v": 0,
       "category": "swimming",
       "promo": true,
-      "bestSeller": true,
-      "description": "Speedo ha concebido las Biofuse 2.0 para practicantes en perfeccionamiento que desean entrenar o mantenerse en forma tanto en la piscina como en la natación al aire libre. Primeras gafas de natación desarrolladas a partir de materiales biosintéticos reciclables, diseñadas para ofrecer un gran confort, perfecta flexibilidad y estabilidad a nadadores en perfeccionamiento."
-    },
+      "bestSeller": true},
     {
       "_id": "64899afdf26833d20c74a87b",
       "name": "GAFAS CICLISMO ROADR 920 ADULTO AZUL CATEGORÍA 3 HIGH DEFINITION",
@@ -66,9 +59,8 @@
       "updatedAt": "2023-06-22T05:39:39.666Z",
       "__v": 0,
       "category": "cycling",
-      "bestSeller": true,
-      "description": "Estas nuevas gafas Van Rysel son extremadamente ligeras, te olvidarás que las llevas puestas para concentrarte en lo esencial... el placer de pedalear. El cristal cilíndrico High Definition te proporcionará una nueva experiencia visual. Cristal sin montura para mayor ligereza, las gafas 920 ofrecen altas prestaciones."
-    },
+      "bestSeller": true
+       },
     {
       "_id": "64899afdf26833d20c74a882",
       "name": "GAFAS DE CICLISMO FOTOCROMÁTICAS ALTA DEFINICIÓN ADULTO VAN RYSEL",
@@ -77,8 +69,7 @@
       "createdAt": "2023-06-14T10:48:29.176Z",
       "updatedAt": "2023-06-22T05:38:47.426Z",
       "__v": 0,
-      "category": "cycling",
-      "description": "Estas nuevas gafas Van Rysel son extremadamente ligeras, te olvidarás que las llevas puestas para concentrarte en lo esencial... el placer de pedalear. El cristal cilíndrico High Definition te proporcionará una nueva experiencia visual. Cristal sin montura para mayor ligereza, las gafas 920 ofrecen altas prestaciones."
+      "category": "cycling"
     },
     {
       "_id": "64899afdf26833d20c74a883",
@@ -88,8 +79,7 @@
       "createdAt": "2023-06-14T10:48:29.176Z",
       "updatedAt": "2023-06-22T05:38:05.705Z",
       "__v": 0,
-      "category": "swimming",
-      "description": "Nuestros equipos de diseño han desarrollado estas gafas de natación para los nadadores en iniciación que quieren iniciarse en la natación o retomarla. ¿Estás cansado de no poder ajustarte las gafas? Se adaptan a todas las caras gracias al puente con ajuste patentado y a la cinta fácil de ajustar que garantizan una buena estanqueidad"
+      "category": "swimming"
     },
     {
       "_id": "64899afdf26833d20c74a885",
@@ -101,8 +91,7 @@
       "__v": 0,
       "category": "swimming",
       "promo": true,
-      "bestSeller": true,
-      "description": "Nuestros equipos de diseño han desarrollado estas gafas de natación para los nadadores en iniciación que quieren iniciarse en la natación o retomarla. ¿Estás cansado de no poder ajustarte las gafas? Se adaptan a todas las caras gracias al puente con ajuste patentado y a la cinta fácil de ajustar que garantizan una buena estanqueidad"
+      "bestSeller": true
     },
     {
       "_id": "64899afdf26833d20c74a87c",
@@ -113,8 +102,7 @@
       "updatedAt": "2023-06-22T05:37:14.156Z",
       "__v": 0,
       "category": "swimming",
-      "bestSeller": true,
-      "description": "Nuestro equipo de triatletas apasionados(as) ha creado este trifunción, equipamiento icónico e imprescindible, para tus primeros triatlones de corta distancia. Con este trifunción... ¡nada, pedalea y corre! Esta segunda piel, ideada por triatletas, se adapta a los movimientos del cuerpo durante las 3 disciplinas del triatlón de corta distancia."
+      "bestSeller": true
     },
     {
       "_id": "64899afdf26833d20c74a886",
@@ -125,8 +113,7 @@
       "updatedAt": "2023-06-22T05:36:36.083Z",
       "__v": 0,
       "category": "cycling",
-      "bestSeller": true,
-      "description": "Segunda generación de estas gafas destinadas a los deportes de velocidad. Son ideales para los ciclistas experimentados que buscan una fuerte protección contra el viento. Esta nueva versión de las gafas XC es más ligera y se ajusta mejor. Ofrece una ventilación variable y la parte inferior de la montura es desmontable. Cristales fotocromáticos"
+      "bestSeller": true
     },
     {
       "_id": "64899afdf26833d20c74a887",
@@ -136,8 +123,7 @@
       "createdAt": "2023-06-14T10:48:29.177Z",
       "updatedAt": "2023-06-22T05:35:55.379Z",
       "__v": 0,
-      "category": "swimming",
-      "description": "Nuestros equipos de diseño han desarrollado estas gafas de natación para los nadadores que quieren iniciarse en la natación o retomarla. ¿Estás cansado de no poder ajustarte las gafas? Se adaptan a todas las caras gracias al puente con ajuste patentado y a la cinta fácil de ajustar que garantizan una buena estanqueidad."
+      "category": "swimming"
     },
     {
       "_id": "64899afdf26833d20c74a888",
@@ -147,87 +133,6 @@
       "createdAt": "2023-06-14T10:48:29.177Z",
       "updatedAt": "2023-06-22T05:35:14.901Z",
       "__v": 0,
-      "category": "swimming",
-      "description": "Desarrolladas para los mejores nadadores del mundo, estas gafas están diseñadas para las carreras.¡Color exclusivo DECATHLON! Diseño de cristales para una visión periférica óptima, 3 puentes nasales intercambiables para un ajuste individual, las juntas 3D garantizan una estanqueidad perfecta."
-    },
-    {
-      "_id": "64899afdf26833d20c74a889",
-      "name": "GAFAS NATACIÓN 100 SOFT AZUL/GRIS/AMARILLO CRISTALES CLAROS TALLA S",
-      "price": "9,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249557/TriaRock/g3z3zoke1rd5ln7jibkj.avif",
-      "createdAt": "2023-06-14T10:48:29.178Z",
-      "updatedAt": "2023-06-22T05:34:36.369Z",
-      "__v": 0,
-      "category": "swimming",
-      "description": "Nuestros equipos de diseño han creado estas gafas de natación estancas para los nadadores principiantes que quieren iniciarse en la natación con total libertad. ¿Cansado/a de no ver con claridad en el agua? Estas gafas de natación SOFT con tratamiento antivaho fáciles de usar te ofrecen el campo de visión más amplio de la gama, así como un fácil ajuste trasero"
-    },
-    {
-      "_id": "64899afdf26833d20c74a88a",
-      "name": "GAFAS NATACIÓN ARENA AIRSPEED AMARILLO NEGRO ESPEJO",
-      "price": "23,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249602/TriaRock/ih8aommesoheg260whxm.avif",
-      "createdAt": "2023-06-14T10:48:29.178Z",
-      "updatedAt": "2023-06-22T05:33:54.904Z",
-      "__v": 0,
-      "category": "swimming",
-      "description": "ARENA ha diseñado estas gafas de natación para practicantes expertos que desean mejorar su rendimiento gracias a unas gafas hidrodinámicas y cómodas.Gafas de natación con un campo de visión extraamplio y una visibilidad perfecta bajo el agua. Se adaptan a la morfología de cada uno gracias a los puentes nasales intercambiables y las cómodas juntas."
-    },
-    {
-      "_id": "64899afdf26833d20c74a88b",
-      "name": "GAFAS NATACIÓN ARENA THE ONE GRIS OSCURO",
-      "price": "15,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249676/TriaRock/zxkzeoyofrdgmzgn6iqr.avif",
-      "createdAt": "2023-06-14T10:48:29.178Z",
-      "updatedAt": "2023-06-22T05:33:15.045Z",
-      "__v": 0,
-      "category": "swimming",
-      "description": "ARENA ha diseñado estas gafas de natación para los nadadores que deseen entrenar o mantenerse en forma.Las gafas de entrenamiento The One han sido diseñadas para adaptarse a las caras anchas."
-    },
-    {
-      "_id": "64899afdf26833d20c74a88c",
-      "name": "GAFAS NATACIÓN ARENA THE ONE NIÑOS AZUL",
-      "price": "14,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249764/TriaRock/vhnriiviala08koppw0q.avif",
-      "createdAt": "2023-06-14T10:48:29.178Z",
-      "updatedAt": "2023-06-22T05:32:19.208Z",
-      "__v": 0,
-      "category": "swimming",
-      "description": "Gafas de natación para niños, ideales para nadadores de 6 a 12 años que buscan comodidad. Las gafas Arena The One para niños son cómodas y están destinadas a nadadores ocasionales y regulares. La correa exclusiva se adapta a la forma de la cara y la zona ocular de la mayoría de nadadores."
-    },
-    {
-      "_id": "64899afdf26833d20c74a88d",
-      "name": "GAFAS DE CICLISMO ALTA DEFINICIÓN CAT 3 ADULTO VAN RYSEL ROADR 500 NEGRAS",
-      "price": "19,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249814/TriaRock/fzrebjrkalddymyvr9hu.avif",
-      "createdAt": "2023-06-14T10:48:29.178Z",
-      "updatedAt": "2023-06-22T05:31:37.460Z",
-      "__v": 0,
-      "category": "cycling",
-      "description": "Nuestros ingenieros han concebido estas gafas para un uso con tiempo soleado gracias a los cristales 100% anti-UV de categoría 3. Ideal para rostros delgados y medianos. Las ROADR 500 protegen eficazmente de las agresiones exteriores (viento, polvo). Montura y cristales optimizados para evitar la formación de vaho."
-    },
-    {
-      "_id": "64899afdf26833d20c74a88e",
-      "name": "CALCETINES RUNNING EKIDEN BLANCO (3 PARES)",
-      "price": "3,49 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249881/TriaRock/o6ta5fem0r8gsktygsoo.avif",
-      "createdAt": "2023-06-14T10:48:29.179Z",
-      "updatedAt": "2023-06-22T05:30:47.657Z",
-      "__v": 0,
-      "category": "running",
-      "bestSeller": true,
-      "description": "Estos calcetines de running han sido diseñados para proteger tus pies de la formación de ampollas. 3 pares de calcetines perfectos para iniciarte en running. ¿Calcetines de running a bajo precio? Por su punto con hilo de algodón, estos calcetines finos y aireados son ideales para practicar running a bajo precio."
-    },
-    {
-      "_id": "64899afdf26833d20c74a88f",
-      "name": "GAFAS NATACIÓN ARENA COBRA SWIPE MIRROR DORADO",
-      "price": "45,99 €",
-      "image": "https://res.cloudinary.com/dxxkog06n/image/upload/v1687249925/TriaRock/vcq23mrggr6vhshhx8kj.avif",
-      "createdAt": "2023-06-14T10:48:29.179Z",
-      "updatedAt": "2023-06-22T05:30:08.654Z",
-      "__v": 0,
-      "category": "swmming",
-      "promo": true,
-      "description": "Arena ha diseñado estas gafas de natación para los deportistas expertos que desean mejorar su rendimiento con la tecnología antivaho SWIPE. Descubre la nueva tecnología antivaho ARENA SWIPE en estas gafas de natación: El antivaho se puede reactivar simplemente frotando con el dedo"
-    }
+      "category": "swimming"}
     ]
 }
