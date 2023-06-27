@@ -228,39 +228,6 @@
       "category": "swmming",
       "promo": true,
       "description": "Arena ha diseñado estas gafas de natación para los deportistas expertos que desean mejorar su rendimiento con la tecnología antivaho SWIPE. Descubre la nueva tecnología antivaho ARENA SWIPE en estas gafas de natación: El antivaho se puede reactivar simplemente frotando con el dedo"
-    },
-    {
-      "_id": "64899afdf26833d20c74a890",
-      "name": "GAFAS CICLISMO FOTOCROMÁTICAS VAN RYSEL ROADR 900 ADULTO GRIS",
-      "price": "44,99 €",
-      "image": "https://res.cloudinary.com/dnlceaase/image/upload/v1687249299/TriaRock/yo7vh6jyj4cyesn9apt1.avif",
-      "createdAt": "2023-06-14T10:48:29.179Z",
-      "updatedAt": "2023-06-22T05:29:21.650Z",
-      "__v": 0,
-      "category": "cycling",
-      "description": "Tercera generación para estas gafas esenciales. Una línea más moderna con una pantalla más grande y un peso reducido. Ligereza, gran campo de visión y excelente ventilación, este trío ganador es el sello distintivo de este modelo. Evoluciona con un campo de visión ampliado y una línea refinada. Pantalla fotocromática"
-    },
-    {
-      "_id": "64899afdf26833d20c74a891",
-      "name": "GAFAS CICLISMO CAT3 HD VAN RYSEL ROADR 900 ADULTO",
-      "price": "39,99 €",
-      "image": "https://res.cloudinary.com/dnlceaase/image/upload/v1687249232/TriaRock/ermmn3rpra5im3ps3suh.avif",
-      "createdAt": "2023-06-14T10:48:29.179Z",
-      "updatedAt": "2023-06-22T05:28:33.911Z",
-      "__v": 0,
-      "category": "cycling",
-      "description": "3ª generación para estas gafas esenciales. Cambiar el cristal es igual de fácil y rápido, pero con una línea nueva y más moderna Ligereza, gran campo de visión y excelente ventilación, este trío ganador es el sello distintivo de este modelo. Evoluciona con un campo de visión ampliado y una línea refinada."
-    },
-    {
-      "_id": "64899afdf26833d20c74a881",
-      "name": "GAFAS NATACIÓN READY GRIS CRISTALES CLAROS TALLA ÚNICA",
-      "price": "2,99 €",
-      "image": "https://res.cloudinary.com/dnlceaase/image/upload/v1687249170/TriaRock/oagykcofzz40m0d74vip.avif",
-      "createdAt": "2023-06-14T10:48:29.175Z",
-      "updatedAt": "2023-06-22T05:27:47.436Z",
-      "__v": 0,
-      "category": "swimming",
-      "description": "Nuestros equipos de diseño han desarrollado estas gafas de natación para los nadadores en iniciación que quieren unas gafas ajustables a un precio reducido. ¿Quieres un par de gafas a precio reducido? Este modelo ajustable y ecodiseñado te ofrece la posibilidad de ver claramente bajo el agua y de ajustar las gafas según el contorno de tu cabeza.."
     }
-]
+    ]
 }
